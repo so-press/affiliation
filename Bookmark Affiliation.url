@@ -2,5 +2,5 @@
 URL=javascript:(async function() {     const currentUrl = window.location.href;      const url = `https://tools.sopress.dev/affiliation/?url=${encodeURIComponent(currentUrl)}`;     window.open(url, 'affiliation'); })();
 IDList=
 HotKey=0
-IconFile=C:\Users\gille_ycz9q4f\AppData\Local\Mozilla\Firefox\Profiles\hcrr0y3f.default-release\shortcutCache\T3cqnzHP6hGHg1HxvDBQL3b+zZsV4dVjb7jfs23lr8E=.ico
 IconIndex=0
+
